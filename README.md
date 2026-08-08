@@ -16,17 +16,11 @@ AI Engineering student focused on building intelligent systems, multi-agent work
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge)
-
-**Machine Learning & Data**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge)
-
-**Backend & Infrastructure**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
