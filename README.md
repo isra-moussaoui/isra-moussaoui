@@ -8,8 +8,6 @@ AI Engineering student focused on building intelligent systems, multi-agent work
 - ⚡ Fun fact: I love turning complex AI ideas into practical systems people can actually use
 ## 💼 Tech Stack
 
-**AI & LLMs**
-
 ![RAG](https://img.shields.io/badge/RAG-412991?style=for-the-badge)
 ![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-6A1B9A?style=for-the-badge)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge)
